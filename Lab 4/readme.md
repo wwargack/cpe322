@@ -6,6 +6,8 @@ I came across some errors regarding the mycpu server. I followed all steps, and 
 
 ![home error](./homepwerror.png)
 
+![controller.py and views.py](./controllerviews.png)
+
 ![forbidden](./forbidden.png)
 
 Just in case it has something to do with  dt, cpu, and mem, here are images of post HTML Post 2022, 20, and 20 respectively.
