@@ -2,6 +2,6 @@
 
 Labs 1, 2, 3, and 4 stevens were completed 3/19.
 
-Lab 4 mycpu has login errors for seemingly no reason.
+Lab 4 mycpu login errors fixed 3/20.
 
-Lab 5 and 6 will be completed Sunday (3/20) night.
+Labs 5 and 6 were completed 3/20.
