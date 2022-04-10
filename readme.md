@@ -8,6 +8,6 @@ Labs 5 and 6 were completed Mar/20.
 
 Lab 7 was completed Mar/26.
 
-Lab 8 was completed Apr/2. Updated Apr/9.
+Lab 8 was completed Apr/2. Updated final plots Apr/9.
 
 Lab 9 was completed Apr/9.
