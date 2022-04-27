@@ -10,7 +10,7 @@ Blockchain
 
 Snakecoin Server
 
-![snakecoin server](./snakecoin\ server.png)
+![snakecoin\ server](./snakecoinserver.png)
 
 node\_server and run\_server
 
