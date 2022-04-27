@@ -11,3 +11,5 @@ Lab 7 was completed Mar/26.
 Lab 8 was completed Apr/2. Updated final plots Apr/9.
 
 Lab 9 was completed Apr/9.
+
+Lab 10 was completed Apr/27.
